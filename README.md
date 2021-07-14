@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on developing ML projects
 - 📫 How to reach me:
-LinkedIn -> Jasurbek Mamurov
+LinkedIn -> www.linkedin.com/in/jasurbek-mamurov-530a8b204
