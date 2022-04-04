@@ -1,4 +1,4 @@
-<p align="center"><img width="80%" src="https://github.com/Jasurbek16/Jasurbek16/blob/main/Let's%20build%20the%20future%20today....png" alt="a picture that has the name Jasurbek Mamurov which has been written on it"/></p>
+<p align="center"><img width="100%" src="https://github.com/Jasurbek16/Jasurbek16/blob/main/Let's%20build%20the%20future%20today....png" alt="a picture that has the name Jasurbek Mamurov which has been written on it"/></p>
 
  👨‍💻 Currently, learning Data Science <br>
  🤖 Interested in making things accessible via AI and ML <br>
