@@ -1,5 +1,6 @@
 <p align="center"><img src="https://github.com/Jasurbek16/Jasurbek16/blob/main/Let's%20build%20the%20future%20today....png" alt="a picture that has the name Jasurbek Mamurov which has been written on it" width="80%"/></p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jasurbek16&layout=compact&theme=nord&hide_border=true)](https://github.com/Jasurbek16/Jasurbek16)
 
 <a href="mailto:jascinmamurov7@gmail.com">
   <img align="right" alt="Jasurbek Mamurov on Gmail" width="20px" src="https://github.com/Jasurbek16/Jasurbek16/blob/main/icons8-gmail.svg" />
