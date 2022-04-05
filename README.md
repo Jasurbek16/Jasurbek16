@@ -1,4 +1,4 @@
-<p align="center"><img width="100%" src="https://github.com/Jasurbek16/Jasurbek16/blob/main/Let's%20build%20the%20future%20today....png" alt="a picture that has the name Jasurbek Mamurov which has been written on it"/></p>
+<p align="center"><img src="https://github.com/Jasurbek16/Jasurbek16/blob/main/Let's%20build%20the%20future%20today....png" alt="a picture that has the name Jasurbek Mamurov which has been written on it" width="80%"/></p>
 
  👨‍💻 Currently, learning Data Science <br>
  🤖 Interested in making things accessible via AI and ML <br>
@@ -9,3 +9,10 @@
 
 ## Let's change our future from today
 Nice to see you!
+
+<a href="https://twitter.com/anuraghazru">
+  <img align="right" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+</a>
+<a href="https://codesandbox.io/u/anuraghazra">
+  <img align="right" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
+</a>
