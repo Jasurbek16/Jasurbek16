@@ -1,6 +1,9 @@
+<hr>
 <p align="center">
   <img src="https://github.com/Jasurbek16/Jasurbek16/blob/main/Let's%20build%20the%20future%20today....png" alt="a picture that has the name Jasurbek Mamurov which has been written on it" width="80%"/>
 </p>
+
+<hr>
 
 <div > 
   <a href="https://github.com/Jasurbek16/Jasurbek16" >
@@ -17,6 +20,7 @@
 </div>
 
 <br>
+<hr>
 
 ## More about me:
  #### EDUCATION
@@ -49,3 +53,4 @@
     <img align="right" alt="Jasurbek Mamurov on Meta" width="20px" src="https://github.com/Jasurbek16/Jasurbek16/blob/main/icons8-meta.svg" />
   </a>
 </div>
+<hr>
