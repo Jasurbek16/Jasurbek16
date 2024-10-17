@@ -24,7 +24,7 @@
 
 ## More about me:
  #### EDUCATION
-  * Graduating INHA University in Tashkent in 2024
+  * Graduating from INHA University in Tashkent in 2024
  #### INTERESTS
   * Artificial Intelligence
   * Data Science 
