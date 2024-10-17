@@ -24,16 +24,15 @@
 
 ## More about me:
  #### EDUCATION
-  * Bachelor's @ INHA University in Tashkent
+  * Graduating INHA University in Tashkent in 2024
  #### INTERESTS
   * Artificial Intelligence
   * Data Science 
   * Machine Learning
   * Deep Learning
  #### CURRENTLY
-  * Co-founder of [0|1] ML Club in Tashkent
-  * Learning Django
-  * Working on projects
+  * Scrum Master in Cinerama
+  * Learning Scrum
 
 
 <div>
