@@ -24,15 +24,14 @@
 
 ## More about me:
  #### EDUCATION
-  * Graduating from INHA University in Tashkent in 2024
+  * BSc, Computer Science and Software Engineering IUT'24
  #### INTERESTS
   * Artificial Intelligence
-  * Data Science 
-  * Machine Learning
-  * Deep Learning
- #### CURRENTLY
-  * Scrum Master in Cinerama
-  * Learning Scrum
+  * Reading books: currently - The Man in the Iron Mask by Alexandre Dumas 
+ #### POSITIONS
+  * Teaching Assistant at IUT (current)
+  * Head of Project Office at AICA (left)
+  * Project Manager at Cinerama (left)
 
 
 <div>
