@@ -1,28 +1,3 @@
-
-<p align="center">
-  <img src="https://github.com/Jasurbek16/Jasurbek16/blob/main/Let's%20build%20the%20future%20today....png" alt="a picture that has the name Jasurbek Mamurov which has been written on it" width="80%"/>
-</p>
-
-<hr>
-
-<div > 
-  <a href="https://github.com/Jasurbek16/Jasurbek16" >
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jasurbek16&layout=compact&theme=nord&hide_border=true" />
-  </a> 
-</div> 
-
-<br>
-
-<div>
- <a href="https://github.com/Jasurbek16/Jasurbek16">
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Jasurbek16&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="Jasurbek's github stats" />
-  </a>
-</div>
-
-<br>
-<hr>
-
-## More about me:
  #### EDUCATION
   * BSc, Computer Science and Software Engineering IUT'24
  #### INTERESTS
@@ -33,6 +8,14 @@
   * Head of Project Office at AICA (left)
   * Project Manager at Cinerama (left)
 
+<br>
+
+<div > 
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Jasurbek16&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="Jasurbek's github stats" />
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jasurbek16&layout=compact&theme=nord&hide_border=true" />
+</div>
+
+<br>
 
 <div>
   <a href="mailto:jascinmamurov7@gmail.com">
@@ -51,4 +34,3 @@
     <img align="right" alt="Jasurbek Mamurov on Meta" width="20px" src="https://github.com/Jasurbek16/Jasurbek16/blob/main/icons8-meta.svg" />
   </a>
 </div>
-<hr>
