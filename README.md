@@ -3,7 +3,6 @@
  #### INTERESTS
   * Artificial Intelligence
   * Books; currently reading: The Man in the Iron Mask by Alexandre Dumas
-  * Movies/TV Series; waiting for: Stranger Things (season 5)
  #### POSITIONS
   * Education Assistant at IUT (current)
   * Head of Project Office at Central Asian Association for AI (left)
