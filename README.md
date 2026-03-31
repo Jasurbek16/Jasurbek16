@@ -20,9 +20,6 @@
   <a href="https://www.linkedin.com/in/jmamurov">
     <img align="right" alt="Jasurbek Mamurov on LinkedIn" width="20px" src="https://github.com/Jasurbek16/Jasurbek16/blob/main/icons8-linkedin.svg" />
   </a>
-  <a href="https://twitter.com/J_Mamurov">
-    <img align="right" alt="Jasurbek Mamurov on Twitter" width="21px" src="https://github.com/Jasurbek16/Jasurbek16/blob/main/icons8-twitter.svg" />
-  </a>
   <a href="https://www.facebook.com/mamurov.jasurbek">
     <img align="right" alt="Jasurbek Mamurov on Meta" width="20px" src="https://github.com/Jasurbek16/Jasurbek16/blob/main/icons8-meta.svg" />
   </a>
