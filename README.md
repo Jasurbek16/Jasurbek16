@@ -10,7 +10,7 @@
 
 <br>
 
-<div > 
+<div> 
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Jasurbek16&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="Jasurbek's github stats" />
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jasurbek16&layout=compact&theme=nord&hide_border=true" />
 </div>
