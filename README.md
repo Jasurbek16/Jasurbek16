@@ -10,13 +10,6 @@
 
 <br>
 
-<div> 
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Jasurbek16&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="Jasurbek's github stats" />
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jasurbek16&layout=compact&theme=nord&hide_border=true" />
-</div>
-
-<br>
-
 <div>
   <a href="mailto:jascinmamurov7@gmail.com">
     <img align="right" alt="Jasurbek Mamurov on Gmail" width="20px" src="https://github.com/Jasurbek16/Jasurbek16/blob/main/icons8-gmail.svg" />
