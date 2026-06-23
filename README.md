@@ -11,7 +11,7 @@
   <a href="mailto:jascinmamurov7@gmail.com">
     <img align="right" alt="Jasurbek Mamurov on Gmail" width="20px" src="https://github.com/Jasurbek16/Jasurbek16/blob/main/icons8-gmail.svg" />
   </a>
-  <a href="https://t.me/Jasurbek16">
+  <a href="https://t.me/j_journey">
     <img align="right" alt="Jasurbek Mamurov on Telegram" width="20px" src="https://github.com/Jasurbek16/Jasurbek16/blob/main/icons8-telegram-app.svg" />
   </a>
   <a href="https://www.linkedin.com/in/jmamurov">
