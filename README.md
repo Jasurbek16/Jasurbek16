@@ -1,8 +1,5 @@
  #### EDUCATION
   * BSc, Computer Science and Software Engineering, IUT'24
- #### INTERESTS
-  * Artificial Intelligence
-  * Books; currently reading: The Man in the Iron Mask by Alexandre Dumas
  #### POSITIONS
   * Education Assistant at IUT (current)
   * Head of Project Office at Central Asian Association for AI (left)
