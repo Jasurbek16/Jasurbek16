@@ -1,7 +1,7 @@
  #### EDUCATION
   * BSc, Computer Science and Software Engineering, IUT'24
  #### POSITIONS
-  * Education Assistant at IUT (current)
+  * Education Assistant at IUT (paused)
   * Head of Project Office at Central Asian Association for AI (left)
   * Project Manager at Cinerama (left)
 
